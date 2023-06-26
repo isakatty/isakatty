@@ -1,7 +1,10 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=IsakGithub&fontSize=90" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Isak Github&fontSize=90" />
+
+<div align="center">
+    <img src="https://img.shields.io/badge/Swift-F05138?style=flat&logo=Swift&logoColor=white"/>
+</div>
 
 
-<img src="https://img.shields.io/badge/Swift-F05138?style=flat&logo=Swift&logoColor=white"/>
 <!--
 **isakatty/isakatty** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
