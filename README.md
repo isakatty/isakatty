@@ -1,12 +1,12 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=IsakGithub&fontSize=90" />
 
-<div align="center">
-    <img src="https://img.shields.io/badge/Swift-F05138?style=flat&logo=Swift&logoColor=white"/>
-</div>
+
+<img src="https://img.shields.io/badge/Swift-F05138?style=flat&logo=Swift&logoColor=white"/>
+
 
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=myuniverse8&layout=compact"><br><br>
-<img src="https://github-readme-stats.vercel.app/api?username=myuniverse8&show_icons=true">
+
 
 
 <!--
