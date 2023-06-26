@@ -9,7 +9,6 @@
 </div>
 
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=myuniverse8&layout=compact"><br><br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=myuniverse8)](https://github.com/myuniverse8/github-readme-stats)
 
 
