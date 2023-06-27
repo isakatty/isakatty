@@ -8,10 +8,9 @@
     <img src="https://img.shields.io/badge/Swift-F05138?style=flat&logo=Swift&logoColor=white"/>
 </div>
 
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=myuniverse8&hide_progress=true)
-
-
+<a href="s">
+  <img src="https://github-readme-stats.vercel.app/api?username=myuniverse8&theme=tokyonight&show_icons=true" width="42%" />
+</a>
 <!--
 **isakatty/isakatty** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
