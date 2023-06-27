@@ -12,7 +12,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=myuniverse8&theme=tokyonight&show_icons=true" width="42%" />
 </a>
 
-<img src="https://raw.githubusercontent.com/myuniverse8/github-stats-transparent/output/generated/languages.svg" width="49.2%" />
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=myuniverse8&layout=compact&theme=tokyonight)
 
 <!--
 **isakatty/isakatty** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
