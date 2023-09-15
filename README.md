@@ -8,9 +8,13 @@
     <img src="https://img.shields.io/badge/Swift-F05138?style=flat&logo=Swift&logoColor=white"/>
 </div>
 
-<a href="s">
-  <img src="https://github-readme-stats.vercel.app/api?username=isakatty&theme=tokyonight&show_icons=true" width="42%" />
-</a>
+  <h3 align="center">Tech Stack</h3>
+  
+   <div style="display: flex; align-items: flex-start;">
+    <img src="https://techstack-generator.vercel.app/swift-icon.svg" alt="icon" width="65" height="65"/>
+    <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="65" height="65"/>
+    <img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="icon" width="65" height="65"/>
+   </div>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=isakatty&layout=compact&theme=tokyonight)
 
