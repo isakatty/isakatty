@@ -1,14 +1,14 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Isak'sGitHub&fontSize=90" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Isak&fontSize=90" />
 <div align = center>
 <h3> 📚 Tech Stack 📚 </h3>
 <p> 💥 Platforms & Languages 💥 </p>
-</div>
-
    <div style="display: flex; align-items: flex-start;">
     <img src="https://techstack-generator.vercel.app/swift-icon.svg" alt="icon" width="65" height="65"/>
     <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="65" height="65"/>
     <img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="icon" width="65" height="65"/>
    </div>
+</div>
+
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=isakatty&layout=compact&theme=tokyonight)
 
